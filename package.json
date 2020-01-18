@@ -1,0 +1,21 @@
+{
+  "name": "init-webpack",
+  "version": "1.0.0",
+  "description": "```npm\r npm install webpack webpack-cli --save-dev\r ```",
+  "main": "webpack.config.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozimas/init-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozimas/init-webpack/issues"
+  },
+  "homepage": "https://github.com/ozimas/init-webpack#readme"
+}
