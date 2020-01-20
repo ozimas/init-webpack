@@ -1,15 +1,15 @@
-## INIT PACKAGE.JSON
+### Init package.json
 ```npm
 npm init -y
 ```
 
-## PACKAGE.JSON
+### Package.json
 ```npm
 +   "private": true,
 -   "main": "index.js",
 ```
 
-## INSTALL WEBPACK
+### Install webpack
 ```npm
 npm install webpack webpack-cli --save-dev
 ```
